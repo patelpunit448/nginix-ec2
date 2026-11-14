@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../decsecops/.git"
+		},
+		{
+			"path": "../decsecops/.github"
+		},
+		{
+			"path": "../decsecops/dashboard"
+		},
+		{
+			"path": "../decsecops/devsecops"
+		},
+		{
+			"path": "../decsecops/dockerfiles"
+		},
+		{
+			"path": "../decsecops/docs"
+		},
+		{
+			"path": "../decsecops/Jenkinsfile"
+		},
+		{
+			"path": "../decsecops/monitring"
+		},
+		{
+			"path": "../decsecops/reporting"
+		},
+		{
+			"path": "../decsecops/scanner"
+		},
+		{
+			"path": "../decsecops/secdevops"
+		}
+	]
+}
